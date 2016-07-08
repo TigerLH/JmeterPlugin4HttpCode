@@ -1,2 +1,3 @@
 # JmeterPlugin4HttpCode
 JmeterPlugin4HttpCode
+统计测试过程中的HttpCode分布情况
